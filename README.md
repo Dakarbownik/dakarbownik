@@ -16,7 +16,4 @@ Skill and Experince
 
 📫 You can text me dakarbownik@gmail.com
 
-Connect with me: 
-'https://www.linkedin.com/in/daniel-karbownik/' 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.java.com/pl/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](https://spring.io/)
