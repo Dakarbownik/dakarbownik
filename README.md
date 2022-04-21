@@ -14,6 +14,8 @@ Skill and Experince
 
 📋 Check out my LinkedIn https://www.linkedin.com/in/daniel-karbownik/
 
-📫 You can text me dakarbownik@gmail.com
+🔭 I’m currently working on aplikacją pogodową
+
+📫 How to reach me: dakarbownik@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.java.com/pl/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](https://spring.io/)
