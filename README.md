@@ -17,5 +17,3 @@ Skill and Experince
 🔭 I’m currently working on aplikacją pogodową
 
 📫 How to reach me: dakarbownik@gmail.com
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.w3schools.com/html/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>](https://git-scm.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='mysql' height='40'>](https://www.postgresql.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>](https://git-scm.com/) 
