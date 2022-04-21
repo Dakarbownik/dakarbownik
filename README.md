@@ -12,7 +12,7 @@ Skill and Experince
 
 👨‍💻 All of my projects are available at https://github.com/Dakarbownik
 
-📋 Check out my LinkedIn https://www.linkedin.com/in/daniel-karbownik/
+📋 Check out my LinkedIn https://www.linkedin.com/in/Daniel-Karbownik
 
 🔭 I’m currently working on aplikacją pogodową
 
