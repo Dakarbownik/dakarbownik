@@ -4,10 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakarbownik&show_icons=true&theme=dark)
 
-Skill and Experince
+Skill and Experince: 
 
-* 🖥 HTML / CSS / JS
-* 📖 SDA Java Bootcamp student
+* 📖 SDA Java Bootcamp 🖥 range: Java / SQL / HTML / CSS / JS / Angular / Hibernate / Spring
 * 💻Tester IT
 
 👨‍💻 All of my projects are available at https://github.com/Dakarbownik
