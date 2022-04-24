@@ -8,7 +8,7 @@ Skill and Experince:
 
 * 📖 SDA Java Bootcamp 🖥 range:
  
-  Java / SQL / HTML / CSS / JS / Angular / Hibernate / Spring /
+  Java | MySQL | HTML | CSS | JS | Angular | Hibernate | Spring | GIT | Maven |
   
 * 💻 I work as: Tester IT
 
