@@ -6,12 +6,15 @@
 
 Skill and Experince: 
 
-* 📖 SDA Java Bootcamp 🖥 range: Java / SQL / HTML / CSS / JS / Angular / Hibernate / Spring
-* 💻Tester IT
+* 📖 SDA Java Bootcamp 🖥 range:
+ 
+  Java / SQL / HTML / CSS / JS / Angular / Hibernate / Spring /
+  
+* 💻 I work as: Tester IT
 
 👨‍💻 All of my projects are available at https://github.com/Dakarbownik
 
-📋 Check out my LinkedIn https://www.linkedin.com/in/Daniel-Karbownik
+📋 Check out my LinkedIn: www.linkedin.com/in/Dakarbownik
 
 🔭 I’m currently working on aplikacją pogodową
 
