@@ -8,9 +8,9 @@ Skill and Experince:
 
 * 📖 SDA Java Bootcamp 🖥 range:
  
-  Java | MySQL | HTML | CSS | JS | Angular | Hibernate | Spring | GIT | Maven |
+  Java | MySQL | HTML | CSS | JS | Angular | Hibernate | Spring/Spring Boot/Spring Security | GIT | Maven |
   
-* 💻 I work as: Tester IT
+* 💻 I work as: Junior Software Tester/Tester Manualny
 
 👨‍💻 All of my projects are available at https://github.com/Dakarbownik
 
