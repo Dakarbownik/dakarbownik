@@ -1,8 +1,6 @@
 ![ Welcome my GitHub ](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-### Hi there 👋, my name is Daniel !
-
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakarbownik&show_icons=true&theme=dark)
+### Hi there 👋, my name is Daniel ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakarbownik&show_icons=true&theme=dark)
 
 Skill and Experince: 
 
