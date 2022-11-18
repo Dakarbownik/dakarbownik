@@ -1,14 +1,14 @@
-![ Welcome my GitHub ](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+![ Welcome my GitHub ] (https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-### Hi there 👋, my name is Daniel
+### Hi there 👋, my name is Daniel !
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakarbownik&show_icons=true&theme=dark)
+[Anurag's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Dakarbownik&show_icons=true&theme=dark)
 
 Skill and Experince: 
 
 * 📖 SDA Java Bootcamp 🖥 range:
  
-  Java | MySQL | HTML | CSS | JS | Angular | Hibernate | Spring/Spring Boot/Spring Security | GIT | Maven |
+  Java, GIT, MySQL, HTML, CSS, JS, Angular, Maven, Hibernate, Spring, Spring Boot, Spring Security,
   
 * 💻 I work as: Junior Software Tester/Tester Manualny
 
